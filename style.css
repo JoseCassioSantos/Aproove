@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.mudanca {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.botoes {
+    margin-top: 10px;
+}
